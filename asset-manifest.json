@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/commune-waitlist-react/static/css/main.c3f10ffd.css",
-    "main.js": "/commune-waitlist-react/static/js/main.509a9ae2.js",
+    "main.js": "/commune-waitlist-react/static/js/main.c0e41cd9.js",
     "index.html": "/commune-waitlist-react/index.html",
     "main.c3f10ffd.css.map": "/commune-waitlist-react/static/css/main.c3f10ffd.css.map",
-    "main.509a9ae2.js.map": "/commune-waitlist-react/static/js/main.509a9ae2.js.map"
+    "main.c0e41cd9.js.map": "/commune-waitlist-react/static/js/main.c0e41cd9.js.map"
   },
   "entrypoints": [
     "static/css/main.c3f10ffd.css",
-    "static/js/main.509a9ae2.js"
+    "static/js/main.c0e41cd9.js"
   ]
 }
